@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Marco Rossi",
+      "email": "marco@example.com",
+      "role": "Developer",
+      "status": "Active",
+      "lastLogin": "2024-01-15",
+      "country": "Italy",
+      "projects": 5
+    },
+    {
+      "id": "2",
+      "name": "Giuseppe Verdi",
+      "email": "giuseppe@example.com",
+      "role": "Designer",
+      "status": "Active",
+      "lastLogin": "2024-01-14",
+      "country": "Italy",
+      "projects": 3
+    },
+    {
+      "id": "3",
+      "name": "Sofia Bianchi",
+      "email": "sofia@example.com",
+      "role": "Manager",
+      "status": "Inactive",
+      "lastLogin": "2024-01-10",
+      "country": "Italy",
+      "projects": 8
+    }
+  ]
+}
